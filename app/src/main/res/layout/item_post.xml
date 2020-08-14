@@ -1,0 +1,33 @@
+<android.support.v7.widget.CardView
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:card_view="http://schemas.android.com/apk/res-auto"
+	card_view:cardCornerRadius="7dp"
+	android:layout_margin="10dp"
+	android:background="#ffffff"
+	android:layout_height="wrap_content"
+	android:layout_width="match_parent">
+	<LinearLayout
+		android:background="#ffffff"
+		android:layout_margin="0dp"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:gravity="center_horizontal"
+		android:orientation="vertical">
+		
+		<TextView
+			android:text="comment Mouhammed Dbs on post Ali Hatem Alshikh"
+			android:id="@+id/text"
+			android:textColor="#000000"
+			android:textStyle="bold"
+			android:textSize="15sp"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_margin="4dp"/>
+		<com.github.mikephil.charting.charts.PieChart
+			android:background="#E2E2E2"
+			android:id="@+id/piechart"
+			android:layout_width="match_parent"
+			android:layout_height="250dp"/>
+	</LinearLayout>
+</android.support.v7.widget.CardView>
+
